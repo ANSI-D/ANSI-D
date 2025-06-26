@@ -9,8 +9,8 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ANSI-D&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ANSI-D&theme=catppuccin_mocha&hide_border=false) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANSI-D&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api?username=ansi-d&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ansi-d&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ansi-d&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 </div>
