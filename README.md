@@ -1,6 +1,7 @@
 # 💻 Tech Stack:
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40">
 🐧 5+ years of Linux experience 
+<br/>
 
 
                     
