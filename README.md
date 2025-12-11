@@ -1,4 +1,8 @@
-<span>🐧 5+ years of Linux experience</span>
+<span>
+I write a lot of different programs, low level to high level: Web Apps, Mobile Apps, CLI Tools, High Performance programs and more 
+I deploy servers, manage databases (SQL and NoSQL), train language models and a lot of other stuff i find interesting.
+  
+🐧 5+ years of Linux experience</span>
 <br>
 
 # 🔭 My webpage: [ANSIDEN 🧩](https://ansiden.com) 
