@@ -1,4 +1,8 @@
 <span>🐧 5+ years of Linux experience</span>
+<br>
+
+# 🔭 My webpage: [ANSIDEN 🧩](https://ansiden.com)
+<br>
 
 
 # 💻Tech Stack
@@ -6,13 +10,6 @@
 
 
 <br>
-
-
-# 🔭 My webpage: [ANSIDEN 🧩](https://ansiden.com)
-<br>
-
-
-
 # 📊 GitHub Stats:
 <div align="center">
 
@@ -21,3 +18,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ansi-d&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 </div>
+
+
+
+
+
+
+
